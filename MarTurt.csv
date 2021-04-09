@@ -1,0 +1,331 @@
+Site,Camp,Season,BeachExt,Variable,SarVolMax,Period,Cm,Cc
+1,Contoy Is,2010,4.9,Nests,High,BS,183,16
+1,Contoy Is,2011,4.9,Nests,High,BS,116,9
+1,Contoy Is,2012,4.9,Nests,High,BS,161,20
+1,Contoy Is,2013,4.9,Nests,High,BS,835,30
+1,Contoy Is,2014,4.9,Nests,High,BS,659,44
+1,Contoy Is,2015,4.9,Nests,High,AS,1160,16
+1,Contoy Is,2016,4.9,Nests,High,AS,209,33
+1,Contoy Is,2017,4.9,Nests,High,AS,213,10
+1,Contoy Is,2018,4.9,Nests,High,AS,238,60
+1,Contoy Is,2019,4.9,Nests,High,AS,350,29
+1,Contoy Is,2010,4.9,Hatchlings,High,BS,16465,1380
+1,Contoy Is,2011,4.9,Hatchlings,High,BS,6541,330
+1,Contoy Is,2012,4.9,Hatchlings,High,BS,11657,687
+1,Contoy Is,2013,4.9,Hatchlings,High,BS,57795,797
+1,Contoy Is,2014,4.9,Hatchlings,High,BS,31186,367
+1,Contoy Is,2015,4.9,Hatchlings,High,AS,36906,108
+1,Contoy Is,2016,4.9,Hatchlings,High,AS,15756,2994
+1,Contoy Is,2017,4.9,Hatchlings,High,AS,8973,0
+1,Contoy Is,2018,4.9,Hatchlings,High,AS,8421,2221
+1,Contoy Is,2019,4.9,Hatchlings,High,AS,8890,202
+2,Cancun,2010,12,Nests,Regular,BS,4310,31
+2,Cancun,2011,12,Nests,Regular,BS,4896,120
+2,Cancun,2012,12,Nests,Regular,BS,5049,167
+2,Cancun,2013,12,Nests,Regular,BS,7680,207
+2,Cancun,2014,12,Nests,Regular,BS,2887,318
+2,Cancun,2015,12,Nests,Regular,AS,8260,282
+2,Cancun,2016,12,Nests,Regular,AS,3180,97
+2,Cancun,2017,12,Nests,Regular,AS,11044,88
+2,Cancun,2018,12,Nests,Regular,AS,2908,55
+2,Cancun,2019,12,Nests,Regular,AS,11570,73
+2,Cancun,2010,12,Hatchlings,Regular,BS,417330,2734
+2,Cancun,2011,12,Hatchlings,Regular,BS,452425,10544
+2,Cancun,2012,12,Hatchlings,Regular,BS,508892,15442
+2,Cancun,2013,12,Hatchlings,Regular,BS,831808,21816
+2,Cancun,2014,12,Hatchlings,Regular,BS,281455,32068
+2,Cancun,2015,12,Hatchlings,Regular,AS,849137,28450
+2,Cancun,2016,12,Hatchlings,Regular,AS,298962,10105
+2,Cancun,2017,12,Hatchlings,Regular,AS,1031905,10004
+2,Cancun,2018,12,Hatchlings,Regular,AS,303966,5834
+2,Cancun,2019,12,Hatchlings,Regular,AS,1249423,6829
+3,Palace-Cun,2010,0.3,Nests,Regular,BS,457,1
+3,Palace-Cun,2011,0.3,Nests,Regular,BS,246,0
+3,Palace-Cun,2012,0.3,Nests,Regular,BS,292,3
+3,Palace-Cun,2013,0.3,Nests,Regular,BS,402,4
+3,Palace-Cun,2014,0.3,Nests,Regular,BS,155,7
+3,Palace-Cun,2015,0.3,Nests,Regular,AS,547,3
+3,Palace-Cun,2016,0.3,Nests,Regular,AS,240,8
+3,Palace-Cun,2017,0.3,Nests,Regular,AS,845,3
+3,Palace-Cun,2018,0.3,Nests,Regular,AS,128,5
+3,Palace-Cun,2019,0.3,Nests,Regular,AS,1273,5
+3,Palace-Cun,2010,0.3,Hatchlings,Regular,BS,44647,107
+3,Palace-Cun,2011,0.3,Hatchlings,Regular,BS,24709,0
+3,Palace-Cun,2012,0.3,Hatchlings,Regular,BS,29303,306
+3,Palace-Cun,2013,0.3,Hatchlings,Regular,BS,42616,312
+3,Palace-Cun,2014,0.3,Hatchlings,Regular,BS,14622,694
+3,Palace-Cun,2015,0.3,Hatchlings,Regular,AS,52603,330
+3,Palace-Cun,2016,0.3,Hatchlings,Regular,AS,20930,744
+3,Palace-Cun,2017,0.3,Hatchlings,Regular,AS,74517,303
+3,Palace-Cun,2018,0.3,Hatchlings,Regular,AS,13128,483
+3,Palace-Cun,2019,0.3,Hatchlings,Regular,AS,123954,361
+4,Tamul,2010,12,Nests,Very High,BS,1181,98
+4,Tamul,2011,12,Nests,Very High,BS,1010,5
+4,Tamul,2012,12,Nests,Very High,BS,1234,21
+4,Tamul,2013,12,Nests,Very High,BS,1914,17
+4,Tamul,2014,12,Nests,Very High,BS,778,46
+4,Tamul,2015,9,Nests,Very High,AS,1647,16
+4,Tamul,2016,9,Nests,Very High,AS,915,36
+4,Tamul,2017,9,Nests,Very High,AS,2100,14
+4,Tamul,2018,9,Nests,Very High,AS,489,20
+4,Tamul,2019,7,Nests,Very High,AS,1821,19
+4,Tamul,2010,12,Hatchlings,Very High,BS,110081,7901
+4,Tamul,2011,12,Hatchlings,Very High,BS,75810,296
+4,Tamul,2012,12,Hatchlings,Very High,BS,115999,1687
+4,Tamul,2013,12,Hatchlings,Very High,BS,188701,1560
+4,Tamul,2014,12,Hatchlings,Very High,BS,74863,4504
+4,Tamul,2015,9,Hatchlings,Very High,AS,152884,1367
+4,Tamul,2016,9,Hatchlings,Very High,AS,83339,2550
+4,Tamul,2017,9,Hatchlings,Very High,AS,192124,1353
+4,Tamul,2018,9,Hatchlings,Very High,AS,48178,1616
+4,Tamul,2019,7,Hatchlings,Very High,AS,182164,1617
+5,Punta Venado,2010,4.5,Nests,Regular,BS,201,95
+5,Punta Venado,2011,4.5,Nests,Regular,BS,117,80
+5,Punta Venado,2012,4.5,Nests,Regular,BS,144,133
+5,Punta Venado,2013,4.5,Nests,Regular,BS,219,69
+5,Punta Venado,2014,4.5,Nests,Regular,BS,54,66
+5,Punta Venado,2015,4.5,Nests,Regular,AS,288,89
+5,Punta Venado,2016,4.5,Nests,Regular,AS,158,194
+5,Punta Venado,2017,4.5,Nests,Regular,AS,344,100
+5,Punta Venado,2018,4.5,Nests,Regular,AS,127,197
+5,Punta Venado,2019,4.5,Nests,Regular,AS,268,119
+5,Punta Venado,2010,4.5,Hatchlings,Regular,BS,10177,5293
+5,Punta Venado,2011,4.5,Hatchlings,Regular,BS,4657,2455
+5,Punta Venado,2012,4.5,Hatchlings,Regular,BS,3660,4117
+5,Punta Venado,2013,4.5,Hatchlings,Regular,BS,14326,3723
+5,Punta Venado,2014,4.5,Hatchlings,Regular,BS,2154,2998
+5,Punta Venado,2015,4.5,Hatchlings,Regular,AS,19848,5684
+5,Punta Venado,2016,4.5,Hatchlings,Regular,AS,8754,9171
+5,Punta Venado,2017,4.5,Hatchlings,Regular,AS,24191,5606
+5,Punta Venado,2018,4.5,Hatchlings,Regular,AS,8589,11460
+5,Punta Venado,2019,4.5,Hatchlings,Regular,AS,16333,7484
+6,Paamul,2010,2.5,Nests,Low,BS,171,92
+6,Paamul,2011,2.5,Nests,Low,BS,140,62
+6,Paamul,2012,2.5,Nests,Low,BS,207,144
+6,Paamul,2013,2.5,Nests,Low,BS,176,58
+6,Paamul,2014,2.5,Nests,Low,BS,146,139
+6,Paamul,2015,2.5,Nests,Low,AS,294,89
+6,Paamul,2016,2.5,Nests,Low,AS,211,175
+6,Paamul,2017,2.5,Nests,Low,AS,613,131
+6,Paamul,2018,2.5,Nests,Low,AS,353,231
+6,Paamul,2019,2.5,Nests,Low,AS,485,88
+6,Paamul,2010,2.5,Hatchlings,Low,BS,13537,7899
+6,Paamul,2011,2.5,Hatchlings,Low,BS,9472,4188
+6,Paamul,2012,2.5,Hatchlings,Low,BS,10296,5776
+6,Paamul,2013,2.5,Hatchlings,Low,BS,13849,3548
+6,Paamul,2014,2.5,Hatchlings,Low,BS,7639,6839
+6,Paamul,2015,2.5,Hatchlings,Low,AS,24110,3146
+6,Paamul,2016,2.5,Hatchlings,Low,AS,10817,10082
+6,Paamul,2017,2.5,Hatchlings,Low,AS,55433,7900
+6,Paamul,2018,2.5,Hatchlings,Low,AS,27160,12665
+6,Paamul,2019,2.5,Hatchlings,Low,AS,18046,5837
+7,Aventuras DIF,2010,1.5,Nests,Regular,BS,541,316
+7,Aventuras DIF,2011,1.5,Nests,Regular,BS,475,278
+7,Aventuras DIF,2012,1.5,Nests,Regular,BS,765,484
+7,Aventuras DIF,2013,1.5,Nests,Regular,BS,918,371
+7,Aventuras DIF,2014,1.5,Nests,Regular,BS,541,515
+7,Aventuras DIF,2015,1.5,Nests,Regular,AS,1301,545
+7,Aventuras DIF,2016,1.5,Nests,Regular,AS,485,607
+7,Aventuras DIF,2017,1.5,Nests,Regular,AS,1900,447
+7,Aventuras DIF,2018,1.5,Nests,Regular,AS,380,469
+7,Aventuras DIF,2019,1.5,Nests,Regular,AS,1062,491
+7,Aventuras DIF,2010,1.5,Hatchlings,Regular,BS,51298,27548
+7,Aventuras DIF,2011,1.5,Hatchlings,Regular,BS,47753,23010
+7,Aventuras DIF,2012,1.5,Hatchlings,Regular,BS,55157,28117
+7,Aventuras DIF,2013,1.5,Hatchlings,Regular,BS,82960,27568
+7,Aventuras DIF,2014,1.5,Hatchlings,Regular,BS,44704,38136
+7,Aventuras DIF,2015,1.5,Hatchlings,Regular,AS,99924,42226
+7,Aventuras DIF,2016,1.5,Hatchlings,Regular,AS,41384,43347
+7,Aventuras DIF,2017,1.5,Hatchlings,Regular,AS,151486,37380
+7,Aventuras DIF,2018,1.5,Hatchlings,Regular,AS,22671,31771
+7,Aventuras DIF,2019,1.5,Hatchlings,Regular,AS,96827,31772
+8,Chemuyil,2010,2,Nests,High,BS,235,77
+8,Chemuyil,2011,2,Nests,High,BS,225,50
+8,Chemuyil,2012,2,Nests,High,BS,327,120
+8,Chemuyil,2013,2,Nests,High,BS,366,78
+8,Chemuyil,2014,2,Nests,High,BS,124,98
+8,Chemuyil,2015,2,Nests,High,AS,96,39
+8,Chemuyil,2016,2,Nests,High,AS,196,136
+8,Chemuyil,2017,2,Nests,High,AS,415,63
+8,Chemuyil,2018,2,Nests,High,AS,48,30
+8,Chemuyil,2019,2,Nests,High,AS,125,34
+8,Chemuyil,2010,2,Hatchlings,High,BS,16091,6352
+8,Chemuyil,2011,2,Hatchlings,High,BS,16448,3004
+8,Chemuyil,2012,2,Hatchlings,High,BS,23725,8385
+8,Chemuyil,2013,2,Hatchlings,High,BS,26381,5653
+8,Chemuyil,2014,2,Hatchlings,High,BS,5997,7470
+8,Chemuyil,2015,2,Hatchlings,High,AS,8266,3563
+8,Chemuyil,2016,2,Hatchlings,High,AS,14230,10352
+8,Chemuyil,2017,2,Hatchlings,High,AS,26704,4709
+8,Chemuyil,2018,2,Hatchlings,High,AS,3929,2169
+8,Chemuyil,2019,2,Hatchlings,High,AS,10886,2607
+9,Xcacel,2010,2.5,Nests,Regular,BS,2455,291
+9,Xcacel,2011,2.5,Nests,Regular,BS,2097,243
+9,Xcacel,2012,2.5,Nests,Regular,BS,3376,477
+9,Xcacel,2013,2.5,Nests,Regular,BS,4016,321
+9,Xcacel,2014,2.5,Nests,Regular,BS,2027,473
+9,Xcacel,2015,2.5,Nests,Regular,AS,4592,516
+9,Xcacel,2016,2.5,Nests,Regular,AS,2387,713
+9,Xcacel,2017,2.5,Nests,Regular,AS,5744,432
+9,Xcacel,2018,2.5,Nests,Regular,AS,1924,440
+9,Xcacel,2019,2.5,Nests,Regular,AS,4405,448
+9,Xcacel,2010,2.5,Hatchlings,Regular,BS,205828,20386
+9,Xcacel,2011,2.5,Hatchlings,Regular,BS,185693,18896
+9,Xcacel,2012,2.5,Hatchlings,Regular,BS,209620,32580
+9,Xcacel,2013,2.5,Hatchlings,Regular,BS,278142,25897
+9,Xcacel,2014,2.5,Hatchlings,Regular,BS,168555,34371
+9,Xcacel,2015,2.5,Hatchlings,Regular,AS,336804,35728
+9,Xcacel,2016,2.5,Hatchlings,Regular,AS,212833,54115
+9,Xcacel,2017,2.5,Hatchlings,Regular,AS,387985,29838
+9,Xcacel,2018,2.5,Hatchlings,Regular,AS,183381,39918
+9,Xcacel,2019,2.5,Hatchlings,Regular,AS,395255,38615
+10,Xel-Ha,2010,0.3,Nests,Regular,BS,693,134
+10,Xel-Ha,2011,0.3,Nests,Regular,BS,567,102
+10,Xel-Ha,2012,0.3,Nests,Regular,BS,746,162
+10,Xel-Ha,2013,0.3,Nests,Regular,BS,911,143
+10,Xel-Ha,2014,0.3,Nests,Regular,BS,392,186
+10,Xel-Ha,2015,0.3,Nests,Regular,AS,593,102
+10,Xel-Ha,2016,0.3,Nests,Regular,AS,514,315
+10,Xel-Ha,2017,0.3,Nests,Regular,AS,1168,152
+10,Xel-Ha,2018,0.3,Nests,Regular,AS,365,142
+10,Xel-Ha,2019,0.3,Nests,Regular,AS,446,216
+10,Xel-Ha,2010,0.3,Hatchlings,Regular,BS,61288,10983
+10,Xel-Ha,2011,0.3,Hatchlings,Regular,BS,52300,9090
+10,Xel-Ha,2012,0.3,Hatchlings,Regular,BS,52462,9373
+10,Xel-Ha,2013,0.3,Hatchlings,Regular,BS,86087,12397
+10,Xel-Ha,2014,0.3,Hatchlings,Regular,BS,35118,14917
+10,Xel-Ha,2015,0.3,Hatchlings,Regular,AS,50071,6287
+10,Xel-Ha,2016,0.3,Hatchlings,Regular,AS,48916,25424
+10,Xel-Ha,2017,0.3,Hatchlings,Regular,AS,88074,11756
+10,Xel-Ha,2018,0.3,Hatchlings,Regular,AS,32358,10206
+10,Xel-Ha,2019,0.3,Hatchlings,Regular,AS,41181,14986
+11,Punta Sur,2010,9,Nests,Regular,BS,415,48
+11,Punta Sur,2011,9,Nests,Regular,BS,322,13
+11,Punta Sur,2012,9,Nests,Regular,BS,660,142
+11,Punta Sur,2013,9,Nests,Regular,BS,712,57
+11,Punta Sur,2014,9,Nests,Regular,BS,379,142
+11,Punta Sur,2015,9,Nests,Regular,AS,754,85
+11,Punta Sur,2016,9,Nests,Regular,AS,506,126
+11,Punta Sur,2017,9,Nests,Regular,AS,1452,56
+11,Punta Sur,2018,9,Nests,Regular,AS,468,189
+11,Punta Sur,2019,9,Nests,Regular,AS,1525,96
+12,Pta Cadena,2010,0.3,Nests,Low,BS,190,75
+12,Pta Cadena,2011,0.3,Nests,Low,BS,148,69
+12,Pta Cadena,2012,0.3,Nests,Low,BS,133,74
+12,Pta Cadena,2013,0.3,Nests,Low,BS,189,109
+12,Pta Cadena,2014,0.3,Nests,Low,BS,82,186
+12,Pta Cadena,2015,0.3,Nests,Low,AS,248,59
+12,Pta Cadena,2016,0.3,Nests,Low,AS,190,239
+12,Pta Cadena,2017,0.3,Nests,Low,AS,277,136
+12,Pta Cadena,2018,0.3,Nests,Low,AS,200,260
+12,Pta Cadena,2019,0.3,Nests,Low,AS,107,161
+12,Pta Cadena,2010,0.3,Hatchlings,Low,BS,17089,6156
+12,Pta Cadena,2011,0.3,Hatchlings,Low,BS,12102,4936
+12,Pta Cadena,2012,0.3,Hatchlings,Low,BS,10761,5455
+12,Pta Cadena,2013,0.3,Hatchlings,Low,BS,18679,9237
+12,Pta Cadena,2014,0.3,Hatchlings,Low,BS,6020,14566
+12,Pta Cadena,2015,0.3,Hatchlings,Low,AS,21813,2843
+12,Pta Cadena,2016,0.3,Hatchlings,Low,AS,9581,9475
+12,Pta Cadena,2017,0.3,Hatchlings,Low,AS,20081,7638
+12,Pta Cadena,2018,0.3,Hatchlings,Low,AS,18141,20008
+12,Pta Cadena,2019,0.3,Hatchlings,Low,AS,7647,11703
+13,Tankah,2010,4,Nests,Regular,BS,1820,127
+13,Tankah,2011,4,Nests,Regular,BS,1114,151
+13,Tankah,2012,4,Nests,Regular,BS,2294,259
+13,Tankah,2013,4,Nests,Regular,BS,3140,183
+13,Tankah,2014,4,Nests,Regular,BS,1499,239
+13,Tankah,2015,4,Nests,Regular,AS,3692,193
+13,Tankah,2016,4,Nests,Regular,AS,2141,301
+13,Tankah,2017,4,Nests,Regular,AS,4187,194
+13,Tankah,2018,4,Nests,Regular,AS,1595,229
+13,Tankah,2019,4,Nests,Regular,AS,3536,301
+13,Tankah,2010,4,Hatchlings,Regular,BS,166942,9132
+13,Tankah,2011,4,Hatchlings,Regular,BS,90474,12088
+13,Tankah,2012,4,Hatchlings,Regular,BS,81415,9970
+13,Tankah,2013,4,Hatchlings,Regular,BS,139241,9840
+13,Tankah,2014,4,Hatchlings,Regular,BS,84758,14329
+13,Tankah,2015,4,Hatchlings,Regular,AS,253548,10536
+13,Tankah,2016,4,Hatchlings,Regular,AS,143150,13859
+13,Tankah,2017,4,Hatchlings,Regular,AS,231942,12476
+13,Tankah,2018,4,Hatchlings,Regular,AS,119432,12339
+13,Tankah,2019,4,Hatchlings,Regular,AS,235582,5900
+14,Kanzul,2010,4,Nests,Regular,BS,1029,187
+14,Kanzul,2011,4,Nests,Regular,BS,919,194
+14,Kanzul,2012,4,Nests,Regular,BS,1518,339
+14,Kanzul,2013,4,Nests,Regular,BS,1829,333
+14,Kanzul,2014,4,Nests,Regular,BS,1056,370
+14,Kanzul,2015,4,Nests,Regular,AS,2628,342
+14,Kanzul,2016,4,Nests,Regular,AS,1008,549
+14,Kanzul,2017,4,Nests,Regular,AS,3105,312
+14,Kanzul,2018,4,Nests,Regular,AS,776,343
+14,Kanzul,2019,4,Nests,Regular,AS,2967,460
+14,Kanzul,2010,4,Hatchlings,Regular,BS,88922,15872
+14,Kanzul,2011,4,Hatchlings,Regular,BS,78920,18053
+14,Kanzul,2012,4,Hatchlings,Regular,BS,86920,15584
+14,Kanzul,2013,4,Hatchlings,Regular,BS,159783,27596
+14,Kanzul,2014,4,Hatchlings,Regular,BS,76242,29751
+14,Kanzul,2015,4,Hatchlings,Regular,AS,229666,26961
+14,Kanzul,2016,4,Hatchlings,Regular,AS,91992,47953
+14,Kanzul,2017,4,Hatchlings,Regular,AS,244182,15891
+14,Kanzul,2018,4,Hatchlings,Regular,AS,49826,27089
+14,Kanzul,2019,4,Hatchlings,Regular,AS,227320,24686
+15,Cahpechen-Lirios,2010,8.5,Nests,Regular,BS,1734,257
+15,Cahpechen-Lirios,2011,8.5,Nests,Regular,BS,1359,224
+15,Cahpechen-Lirios,2012,8.5,Nests,Regular,BS,1854,337
+15,Cahpechen-Lirios,2013,8.5,Nests,Regular,BS,2884,306
+15,Cahpechen-Lirios,2014,8.5,Nests,Regular,BS,1397,360
+15,Cahpechen-Lirios,2015,8.5,Nests,Regular,AS,2999,288
+15,Cahpechen-Lirios,2016,8.5,Nests,Regular,AS,1895,610
+15,Cahpechen-Lirios,2017,8.5,Nests,Regular,AS,4747,344
+15,Cahpechen-Lirios,2018,8.5,Nests,Regular,AS,1382,371
+15,Cahpechen-Lirios,2019,8.5,Nests,Regular,AS,2660,285
+15,Cahpechen-Lirios,2010,8.5,Hatchlings,Regular,BS,164993,23080
+15,Cahpechen-Lirios,2011,8.5,Hatchlings,Regular,BS,118793,17093
+15,Cahpechen-Lirios,2012,8.5,Hatchlings,Regular,BS,100763,14209
+15,Cahpechen-Lirios,2013,8.5,Hatchlings,Regular,BS,263634,25619
+15,Cahpechen-Lirios,2014,8.5,Hatchlings,Regular,BS,116228,28699
+15,Cahpechen-Lirios,2015,8.5,Hatchlings,Regular,AS,235827,21317
+15,Cahpechen-Lirios,2016,8.5,Hatchlings,Regular,AS,155337,32490
+15,Cahpechen-Lirios,2017,8.5,Hatchlings,Regular,AS,327676,16043
+15,Cahpechen-Lirios,2018,8.5,Hatchlings,Regular,AS,107937,25640
+15,Cahpechen-Lirios,2019,8.5,Hatchlings,Regular,AS,193323,8562
+16,Yu-Yum,2010,2,Nests,Low,BS,220,17
+16,Yu-Yum,2011,2,Nests,Low,BS,169,29
+16,Yu-Yum,2012,2,Nests,Low,BS,147,18
+16,Yu-Yum,2013,2,Nests,Low,BS,130,20
+16,Yu-Yum,2014,2,Nests,Low,BS,157,28
+16,Yu-Yum,2015,2,Nests,Low,AS,282,45
+16,Yu-Yum,2016,2,Nests,Low,AS,274,52
+16,Yu-Yum,2017,2,Nests,Low,AS,602,64
+16,Yu-Yum,2018,2,Nests,Low,AS,114,34
+16,Yu-Yum,2019,2,Nests,Low,AS,95,39
+16,Yu-Yum,2010,2,Hatchlings,Low,BS,20160,1445
+16,Yu-Yum,2011,2,Hatchlings,Low,BS,13524,2478
+16,Yu-Yum,2012,2,Hatchlings,Low,BS,3887,1039
+16,Yu-Yum,2013,2,Hatchlings,Low,BS,12996,1667
+16,Yu-Yum,2014,2,Hatchlings,Low,BS,12859,1685
+16,Yu-Yum,2015,2,Hatchlings,Low,AS,22186,2132
+16,Yu-Yum,2016,2,Hatchlings,Low,AS,20024,2935
+16,Yu-Yum,2017,2,Hatchlings,Low,AS,25028,2281
+16,Yu-Yum,2018,2,Hatchlings,Low,AS,10070,3299
+16,Yu-Yum,2019,2,Hatchlings,Low,AS,7439,2823
+17,San Juan,2010,5,Nests,Regular,BS,531,74
+17,San Juan,2011,5,Nests,Regular,BS,438,44
+17,San Juan,2012,5,Nests,Regular,BS,506,67
+17,San Juan,2013,5,Nests,Regular,BS,653,86
+17,San Juan,2014,5,Nests,Regular,BS,491,79
+17,San Juan,2015,5,Nests,Regular,AS,830,80
+17,San Juan,2016,5,Nests,Regular,AS,560,128
+17,San Juan,2017,5,Nests,Regular,AS,294,29
+17,San Juan,2018,5,Nests,Regular,AS,380,144
+17,San Juan,2019,5,Nests,Regular,AS,583,78
+17,San Juan,2010,5,Hatchlings,Regular,BS,37782,5047
+17,San Juan,2011,5,Hatchlings,Regular,BS,32659,3416
+17,San Juan,2012,5,Hatchlings,Regular,BS,17010,2350
+17,San Juan,2013,5,Hatchlings,Regular,BS,44957,4719
+17,San Juan,2014,5,Hatchlings,Regular,BS,29314,4532
+17,San Juan,2015,5,Hatchlings,Regular,AS,61295,4157
+17,San Juan,2016,5,Hatchlings,Regular,AS,37916,6880
+17,San Juan,2017,5,Hatchlings,Regular,AS,24706,4129
+17,San Juan,2018,5,Hatchlings,Regular,AS,23062,12393
+17,San Juan,2019,5,Hatchlings,Regular,AS,29004,5856
